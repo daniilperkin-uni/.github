@@ -3,6 +3,8 @@
 Archived coursework from my Computer Science degree. Every repository is a
 self-contained project with its own tests, CI pipeline and documentation.
 
+**Live showcase:** [daniilperkin-uni.github.io/uni-old-projects](https://daniilperkin-uni.github.io/uni-old-projects/) — an interactive tour of all six projects, with real captures and live widgets.
+
 | Repository | Course | Stack |
 |:--|:--|:--|
 | [sopra_office_dashboard](https://github.com/daniilperkin-uni/sopra_office_dashboard) | Software-Praktikum | Spring Boot · Gradle · Vue 3 |
