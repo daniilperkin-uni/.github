@@ -14,4 +14,6 @@ self-contained project with its own tests, CI pipeline and documentation.
 | [oop_student_organizer](https://github.com/daniilperkin-uni/oop_student_organizer) | Einführung in die Informatik | Java 21 · JavaFX · Maven |
 | [computergraphik_aufgaben](https://github.com/daniilperkin-uni/computergraphik_aufgaben) | Computergrafik | C++17 · CMake · OpenGL |
 
+The showcase itself is also a repository — [**uni-old-projects**](https://github.com/daniilperkin-uni/uni-old-projects): a static site that assembles one section per project (live widgets, real captures, shared light/dark theme) into a single page with a small Node build script, deployed to GitHub Pages on every push.
+
 Each repository's README covers build & test instructions; CI runs on GitHub Actions.
