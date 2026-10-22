@@ -3,10 +3,11 @@
 Archived coursework from my Computer Science degree. Every repository is a
 self-contained project with its own tests, CI pipeline and documentation.
 
-**Live showcase:** [daniilperkin-uni.github.io/uni-old-projects](https://daniilperkin-uni.github.io/uni-old-projects/) — an interactive tour of all six projects, with real captures and live widgets.
+**Live showcase:** [daniilperkin-uni.github.io/uni-old-projects](https://daniilperkin-uni.github.io/uni-old-projects/) — an interactive tour of all eight projects, with real captures and live widgets.
 
 | Repository | Course | Stack |
 |:--|:--|:--|
+| [bsem](https://github.com/daniilperkin-uni/bsem) | Seminar | Python · Jupyter · pandas |
 | [sopra_office_dashboard](https://github.com/daniilperkin-uni/sopra_office_dashboard) | Software-Praktikum | Spring Boot · Gradle · Vue 3 |
 | [pe2_todo_app](https://github.com/daniilperkin-uni/pe2_todo_app) | Programmentwicklung 2 | Spring Boot · Vue 3 · TypeScript |
 | [pe2_library_cli](https://github.com/daniilperkin-uni/pe2_library_cli) | Programmentwicklung 2 | Java 21 · Maven · CLI |
